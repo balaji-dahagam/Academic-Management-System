@@ -13,7 +13,7 @@ To run the backend
 
 Some screenshots of the application : 
 
-![WhatsApp Image 2025-04-09 at 20 11 21_1d9b947f](https://github.com/user-attachments/assets/423a025f-9f78-4c78-8e6b-b358887f7758)
+![WhatsApp Image 2025-04-09 at 20 11 21_1d9b947f](https://github.com/user-attachments/assets/423a025f-9f78-4c78-8e6b-b358887f7758=100*100)
 
 ![WhatsApp Image 2025-04-09 at 20 11 21_5867c3b1](https://github.com/user-attachments/assets/84b148ca-6398-4caf-a4a5-6e9608f9cdf0)
 ![WhatsApp Image 2025-04-09 at 20 11 20_bd9b801d](https://github.com/user-attachments/assets/260bc7e8-1319-4a6e-b645-c85ca9ebfd45)
